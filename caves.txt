@@ -1,0 +1,125 @@
+ [0] Well, this is it! This is your big chance to make a lot of~ money in a very short space of time (the faster you do this~ the more you will earn) OR die in an equally short period.~ The choice is yours ...~~ The long climb through the mountains has left you a little~ bit shaky, but that could also be just an increase in your~ adreneline. The sounds of the cheering crowds have long~ since faded into the distance.~~ Your quiver of arrows is securely slung over your back, some~ food in your pouch and a full lantern, which is now burning~ burning brightly in your hand. OK, the lantern isn't going to~ last all day so you'd better have at it, hmmm?~~ Enter the cave to see what you have let yourself in for ...
+1
+0
+0
+Cave 0 Visible exits: S
+
+ [1] This is just one big empty space! And it doesn't even smell~ too bad!!
+8
+2
+5
+Cave 1 Visible exits: S E W
+
+ [2] This rather odd-shaped cave is cold and drafty. The ground is~ very muddy and slippery (so be careful where you walk). There~ is a large pool of swirling water here along the northern wall.
+1
+3
+10
+Cave 2 Visible exits: N S W
+
+ [3] This largish cave smells dank and mouldy. An assortment of~ moulds grows quite happily on the eastern wall. There are~ many murky puddles on the floor.
+12
+2
+4
+Cave 3 Visible exits: N E W
+
+ [4] This cave smells mostly of rotting vegetation. An assortment~ of fungi grows quite happily on the eastern wall.
+14
+3
+5 
+Cave 4 Visible exits: N E W
+
+ [5] This cave is quite small and cramped. A thick slime coats some~ of the surrounding walls.
+1
+4
+6
+Cave 5 Visible exits: N S E
+
+ [6] This naturally-formed cave is small with a low ceiling. Water~ drips down the eastern wall (from some unknown source) making~ the wall to become slick with an odious slime (ugh!!).
+7
+15
+5
+Cave 6 Visible exits: N S W
+
+ [7] A maze of twisty passages ... all different.
+8
+17
+6
+Cave 7 Visible exits: N E W
+
+ [8] This roundish cavern is strewn with rubble. It's quite~ dry in here and the floor quite dusty. Scattered amongst the~ rubble are various broken implements, bones & sticks.
+1
+9
+7
+Cave 8 Visible exits: N E W
+
+ [9] Along the southern wall of this large cavern are many huge~ stalagmites and stalactites like teeth in the gaping maw of~ a dragon!
+8
+10
+18
+Cave 9 Visible exits: N E W
+
+ [10] Whoa! This cavern is humongous! Signs of reasonably recent~ habitation abound here. You know, the usual ... broken bones,~ dead fires, dried blood, bits of fur, and so on!
+9
+11
+2
+Cave 10 Visible exits: N S E
+
+ [11] This is more like a cavity than a cave providing little relief~ from the close walls.
+10
+12
+19
+Cave 11 Visible exits: N S W
+
+ [12] The ground is damp in places and the air is quite stale within~ this section of the narrow passage.
+11
+3
+13
+Cave 12 Visible exits: N E W
+
+ [13] A maze of twisty passages ... all alike.
+20
+12
+14
+Cave 13 Visible exits: N E W
+
+ [14] This cavern is quite large and almost rectangular in shape.~ The ceiling disappears into the gloom far above your head.
+15
+13
+4
+Cave 14 Visible exits: N E W
+
+ [15] This cavern smells rank and mouldy. A haven for magic mushrooms~ as an assortment of fungi grows quite happily on the southern~ wall. Water constantly drips from the ceiling into murky puddles~ on the floor.
+6
+14
+16
+Cave 15 Visible exits: N S E
+
+ [16] In the northern alcove of this small, ovoid chamber is a small~ mound of dirt surrounded by stones. It looks suspiciously like~ a burial mound.
+17
+20
+15
+Cave 16 Visible exits: N S W
+
+ [17] In this small cave the walls are slick with slime from years~ of constantly oozing dampness.
+7
+16
+18
+Cave 17 Visible exits: N S E
+
+ [18] You find yourself in another longish, cavern. Along the eastern~ wall are many stalagmites as well as stalactites - some many~ metres tall, others wide.
+9
+19
+17
+Cave 18 Visible exits: N S W
+
+ [19] Yet another winding tunnel! You haven't been here before,~ have you?
+18
+20
+11
+Cave 19 Visible exits: N S E
+
+ [20] Phew! This must be the Bog of Eternal Stench and the smell is~ enough to make your eyes water. Whoever, or more likely, whatever~ was here before you was definitely NOT potty-trained!
+13
+19
+16
+Cave 20 Visible exits: S E W
